@@ -40,7 +40,8 @@ O **Projeto** é um site desenvolvido com o propósito de aprendizado, seguindo 
 
 **Objetivo Profissional do Projeto:**
 
-O objetivo central deste projeto é incentivar a aquisição e o aprimoramento dos conhecimentos em desenvolvimento web utilizando as tecnologias fundamentais: HTML, CSS e JavaScript (Vanilla). Isso será alcançado através da implementação de projetos práticos e do seguimento de um roadmap estruturado, disponibilizado em nossa página no GitHub. O foco será na compreensão profunda das linguagens de marcação e estilização, bem como no domínio das interações dinâmicas proporcionadas pelo JavaScript básico.
+O objetivo central deste projeto é incentivar a aquisição e o aprimoramento dos conhecimentos em desenvolvimento web utilizando as tecnologias fundamentais: HTML, CSS, JavaScript e JQuery. Isso será alcançado através da implementação de projetos práticos e do seguimento de um roadmap estruturado, disponibilizado em nossa página no GitHub. O foco será na compreensão profunda das linguagens de marcação e estilização, bem como no domínio das interações dinâmicas
+proporcionadas pelo JavaScript básico.
 
 **Datas do Projeto:** 📅
 
@@ -98,7 +99,6 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 ## Ferramentas 🧰🛠️
 
 <div>
-
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="margin-right: 10px; pointer-events: none;"/>
     <strong>VSCode</strong> 
