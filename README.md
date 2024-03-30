@@ -16,7 +16,7 @@ O **Projeto** é um site desenvolvido com o propósito de aprendizado, seguindo 
 
 ## Tabela de Conteúdos
 
-- [Site Gerador de Senha](#Calculadora-IMC)
+- [Calculadora IMC](#Calculadora-IMC)
 - [Descrição](#descrição)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
