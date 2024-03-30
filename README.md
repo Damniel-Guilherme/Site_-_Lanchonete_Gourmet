@@ -12,7 +12,7 @@
 
 ## Descrição 📝
 
-O **Projeto** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 3 - HTML, CSS, JAVASCRIPT E JQuery] PROJETO 1.
+O **Projeto** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 3 - HTML5, CSS3, JavaScript e JQuery] PROJETO 1.
 
 ## Tabela de Conteúdos
 
