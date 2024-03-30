@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Password Generator</h1>
+  <h1>Calculadora IMC</h1>
   <div> 
-    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/Password-Generator" style="pointer-events: none;" />
-    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/Password-Generator" style="pointer-events: none;" />
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/Password-Generator" style="pointer-events: none;" />
-    <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/Password-Generator" style="pointer-events: none;" />
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/Password-Generator" style="pointer-events: none;" />
-    <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/Password-Generator" style="pointer-events: none;" />
+    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/Calculadora-IMC" style="pointer-events: none;" />
+    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/Calculadora-IMC" style="pointer-events: none;" />
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/Calculadora-IMC" style="pointer-events: none;" />
+    <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/Calculadora-IMC" style="pointer-events: none;" />
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/Calculadora-IMC" style="pointer-events: none;" />
+    <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/Calculadora-IMC" style="pointer-events: none;" />
   </div>
 </div>
 
 ## Descrição 📝
 
-O **Gerador-de-Senha** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 2 - HTML, CSS E JAVASCRIPT] PROJETO 2.
+O **Projeto** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 3 - HTML, CSS, JAVASCRIPT E JQuery] PROJETO 1.
 
 ## Tabela de Conteúdos
 
-- [Site Gerador de Senha](#Gerador-de-Senha)
+- [Site Gerador de Senha](#Calculadora-IMC)
 - [Descrição](#descrição)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
@@ -50,29 +50,29 @@ O objetivo central deste projeto é incentivar a aquisição e o aprimoramento d
 ## Preview do Projeto
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://i.imgur.com/KA7EtVL.png" alt="Imagem Mobile" width="100">
-  <img src="https://i.imgur.com/Da4exxG.png" alt="Imagem Desktop" width="250">
+  <img src="https://i.imgur.com/Dy3HFKw.png" alt="Imagem Mobile" width="100">
+  <img src="https://i.imgur.com/CntnT71.png" alt="Imagem Desktop" width="250">
 </div>
 
 ## Instalação ⚙️
 
-Para instalar e utilizar o **API Pokemon**, siga estas etapas:
+Para instalar e utilizar o **Projeto**, siga estas etapas:
 
 1. **Clone o repositório:** 📜
 
 ```bash
-git clone https://github.com/Damniel-Guilherme/Gerador-de-Senha.git
+git clone https://github.com/Damniel-Guilherme/Calculadora-IMC.git
 ```
 
 2. **Acesse o diretório do projeto:** 📁
 
 ```bash
-cd Gerador-de-Senha
+cd Calculadora-IMC
 ```
 
 ## Uso 💬
 
-Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://site-api-pokemon.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
+Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://calculadora-imc-rouge-kappa.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
 ## Sistema Operacional 🖥️
 
@@ -82,13 +82,16 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 <div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/><strong>HTML5</strong>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS:</strong> Utilizado para estilizar e formatar o conteúdo HTML, proporcionando uma apresentação visual atraente e consistente.
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS3" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS3</strong>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="25" title="JavaScript" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">JavaScript</strong>
   </div>
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="25" title="JavaScript" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">JavaScript:</strong> JavaScript é uma linguagem de programação de alto nível, interpretada e dinâmica, amplamente utilizada para criar conteúdo interativo em páginas da web.
+    <img src="https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png" width="25" title="Jquery" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Jquery</strong>
   </div>
 </div>
 
@@ -96,36 +99,26 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 <div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="pointer-events: none;"/> 
-  <strong>VSCode:</strong> 
-  <span>Um editor de código fonte gratuito e altamente personalizável para desenvolvimento web.</span>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="Git" style="pointer-events: none;"/> 
-  <strong>Git:</strong> 
-  <span>Um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento colaborativo de projetos de software.</span>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="Google Chrome" style="pointer-events: none;"/> 
-  <strong>Google Chrome:</strong> 
-  <span>Um dos navegadores mais populares, ideal para testar e depurar projetos web.</span>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/?size=512&id=iWw83PVcBpLw&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
-  <strong>Canva:</strong> 
-  <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
-  <strong>Figma:</strong> 
-  <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
-</div>
-
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="margin-right: 10px; pointer-events: none;"/>
+    <strong>VSCode</strong> 
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="Git" style="margin-right: 10px; pointer-events: none;"/>
+    <strong>Git</strong> 
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://img.icons8.com/?size=512&id=iWw83PVcBpLw&format=png" width="25" title="Canva" style="margin-right: 10px; pointer-events: none;"/>
+    <strong>Canva</strong> 
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" width="25" title="VSCode" style="margin-right: 10px; pointer-events: none;"/>
+    <strong>Figma</strong> 
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/>
+    <strong>Google Chrome</strong> 
+  </div>
 </div>
 
 ## Plugins 🧩
@@ -137,8 +130,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Mobile**
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://i.imgur.com/D9syhfO.png" width="100px">
-  <img src="https://i.imgur.com/RP5KMkw.png" width="100px">
+  <img src="https://i.imgur.com/zZz4itk.png" width="100px">
 </div>
 
 <br>
@@ -146,31 +138,20 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Desktop**
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://i.imgur.com/yLCRnFI.png" width="250px">
-  <img src="https://i.imgur.com/WmcWAbb.png" width="250px">
+  <img src="https://i.imgur.com/rrFgWIS.png" width="250px">
 </div>
 
 ## Testes 🔧
 
 Lighthouse Chrome Test
 
-<img src="https://i.imgur.com/U7tAAf3.png" width="300px">>
+<img src="https://i.imgur.com/SoSaZQ9.png" width="300px">>
 
 ## Aprendizados 💡
 
 Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habilidades essenciais, incluindo:
 
-- **HTML Semântico:** Utilizamos HTML semântico para melhorar a estrutura e acessibilidade do nosso projeto, garantindo que os elementos tenham significado claro e relevante.
-- **Estruturas Eficientes e Código Limpo:** Implementamos estruturas eficientes e escrevemos código limpo, seguindo boas práticas de desenvolvimento para facilitar a manutenção e compreensão do código.
-- **CSS e Boas Práticas:** Aplicamos CSS de forma organizada e seguimos boas práticas de estilo para garantir uma apresentação visual consistente e agradável do nosso projeto.
-- **JavaScript Interativo:** Utilizamos JavaScript para tornar nosso site interativo e dinâmico, adicionando funcionalidades como validação de formulários, animações e interações com o usuário.
-- **SEO e Otimização:** Implementamos técnicas de SEO (Search Engine Optimization) e otimização para melhorar a visibilidade do nosso projeto nos mecanismos de busca e garantir uma melhor experiência para os usuários.
-- **UI/UX:** Focamos em aspectos de design de interface do usuário (UI) e experiência do usuário (UX) para criar uma experiência agradável e intuitiva para os usuários finais.
-- **Testes de Desempenho:** Realizamos testes de desempenho para identificar e corrigir possíveis gargalos e melhorar a velocidade de carregamento do nosso projeto.
-- **Componentização:** Adotamos a prática de componentização, dividindo o projeto em componentes reutilizáveis para promover a modularidade e escalabilidade do código.
-- **JavaScript Assíncrono:** Utilizamos JavaScript assíncrono para melhorar o desempenho e a responsividade do nosso site, realizando operações como requisições AJAX para carregar conteúdo de forma dinâmica e sem recarregar a página.
-
-Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
+- **Biblioteca: JQuery** 
 
 ## Técnicas Aplicadas ✔📌
 
@@ -185,19 +166,23 @@ Neste projeto, aplicamos várias técnicas de desenvolvimento web, incluindo:
 - **JavaScript Assíncrono:** Implementamos JavaScript assíncrono para melhorar a responsividade do site, realizando operações como requisições AJAX para carregar conteúdo de forma dinâmica e sem recarregar a página.
 - **Design Responsivo e Mobile First:** Adotamos a abordagem mobile-first durante o desenvolvimento do projeto, garantindo que o site seja totalmente funcional e esteticamente agradável em dispositivos móveis, e expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas.
 
+- **Biblioteca: JQuery** 
+
+<br>
+
 Essas técnicas, combinadas com os aprendizados adquiridos, proporcionam uma base sólida para o desenvolvimento de projetos web de alta qualidade, priorizando a experiência do usuário e a eficiência do código.
 
 ## Dificuldades 🚨
 
-Desing Responsivo com BootStrap
+**Sem Dificuldades**
 
 ## Licença 📄
 
-Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 ## Contribuição 📑
 
-A contribuição para o Título do Projeto é bem-vinda! Para contribuir, siga estas etapas:
+A contribuição para o Projeto é bem-vinda! Para contribuir, siga estas etapas:
 
 1. **Abrindo problemas (issues):** Descreva claramente qualquer problema encontrado.
 
